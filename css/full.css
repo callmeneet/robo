@@ -1,0 +1,20 @@
+body {
+    margin-top: 50px;
+}
+
+.full {
+    background: url('https://i.sli.mg/gnbH8D.jpg') no-repeat center center fixed;
+    background-position: 0px 8px;  				/*Use this to move the background image so you can put your radioplay button */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.robot-content {
+	color: white;  								/*Textcolor*/
+}
+
+.robot-modal-text {
+	color: black;  		
+}
+
